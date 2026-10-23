@@ -1,5 +1,7 @@
 # java-to-python-service
 
+License: MIT
+
 I'm building the Python foundation for
 enterprise AI systems — and documenting the journey through a Java lens.
 
